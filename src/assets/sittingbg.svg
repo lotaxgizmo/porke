@@ -1,26 +1,26 @@
-<svg width="2560" height="1953" viewBox="0 0 2560 1953" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-<mask id="mask0_4072_1639" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="2560" height="1953">
-<rect width="2560" height="1953" fill="url(#pattern0_4072_1639)"/>
-<rect width="2560" height="1953" fill="black"/>
+<svg width="2560" height="3091" viewBox="0 0 2560 3091" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<mask id="mask0_4072_1639" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="2560" height="3091">
+<rect width="2560" height="3091" fill="url(#pattern0_4072_1639)"/>
+<rect width="2560" height="3091" fill="black"/>
 </mask>
 <g mask="url(#mask0_4072_1639)">
-<rect x="1318" y="1436" width="43" height="536" fill="#50302B"/>
-<rect x="1178" y="1435" width="47" height="536" fill="#50302B"/>
-<rect x="1225" y="1424" width="93" height="536" fill="#2A1A18"/>
-<rect y="1424" width="1182" height="536" fill="#2A1A18"/>
+<rect x="1318" y="1430" width="43" height="2225" fill="#50302B"/>
+<rect x="1178" y="1426" width="47" height="2225" fill="#50302B"/>
+<rect x="1225" y="1424" width="93" height="2182" fill="#2A1A18"/>
+<rect y="1424" width="1182" height="2182" fill="#2A1A18"/>
 <path d="M350.5 1432.5L477.5 1436L-225.5 1749L-233.5 1690L350.5 1432.5Z" fill="#50302B"/>
 <path d="M-295.5 1211L477.5 1378.5L-225.5 1691.5L-421.5 1654L-295.5 1211Z" fill="#191919"/>
 <rect width="2560" height="1440" fill="url(#pattern1_4072_1639)"/>
-<path d="M1361 1415V1953.5" stroke="black" stroke-width="5"/>
-<path d="M1317 1415V1953.5" stroke="black" stroke-width="5"/>
-<path d="M1225 1415V1953.5" stroke="black" stroke-width="5"/>
-<path d="M1177 1415V1953.5" stroke="black" stroke-width="5"/>
+<path d="M1361 1415V3139" stroke="black" stroke-width="5"/>
+<path d="M1317 1415V3139" stroke="black" stroke-width="5"/>
+<path d="M1225 1415V3139" stroke="black" stroke-width="5"/>
+<path d="M1177 1415V3139" stroke="black" stroke-width="5"/>
 <path d="M505 1423L-486 1864" stroke="black" stroke-width="6"/>
 <path d="M426 1399L-565 1840" stroke="black" stroke-width="6"/>
 </g>
 <defs>
 <pattern id="pattern0_4072_1639" patternContentUnits="objectBoundingBox" width="1" height="1">
-<use xlink:href="#image0_4072_1639" transform="scale(0.000390625 0.000512033)"/>
+<use xlink:href="#image0_4072_1639" transform="scale(0.000390625 0.000440516)"/>
 </pattern>
 <pattern id="pattern1_4072_1639" patternContentUnits="objectBoundingBox" width="1" height="1">
 <use xlink:href="#image0_4072_1639" transform="scale(0.000390625 0.000694444)"/>
