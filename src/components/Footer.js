@@ -1,6 +1,6 @@
 import React from 'react'
 import slider from '../assets/slider.png';
-import contract2 from '../assets/contract2.svg';
+import contract2 from '../assets/contract2.png';
 import allrights from '../assets/allrights.png';
 import footertext from '../assets/footertext.png';
 import woodplank from '../assets/woodplank.png';

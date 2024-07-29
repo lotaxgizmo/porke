@@ -3,7 +3,7 @@ import samplebg from '../assets/samplebg.jpg';
 import porkehero from '../assets/porkehero.png';
 import sittingbg from '../assets/sittingbg.png';
 import heroboard from '../assets/heroboard.png';
-import contract2 from '../assets/contract2.svg';
+import contract2 from '../assets/contract2.png';
 import buybtn from '../assets/buybtn.svg';
 
 function Hero() {
