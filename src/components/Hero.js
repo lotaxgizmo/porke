@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import samplebg from '../assets/samplebg.jpg';
 import porkehero from '../assets/porkehero.png';
-import sittingbg from '../assets/sittingbg.svg';
+import sittingbg from '../assets/sittingbg.png';
 import heroboard from '../assets/heroboard.svg';
 import contract2 from '../assets/contract2.svg';
 import buybtn from '../assets/buybtn.svg';
@@ -54,8 +54,8 @@ function Hero() {
             <div className="right flex flex-col justify-center items-center lg:w-1/2 p-5 lg:p-20">
                 <img src={porkehero} alt="" style={porkeheroParallaxStyle} className='lg:mt-0 mt-14 w-[300px] lg:w-[600px] max-w-none z-10' />
                 <div className="contract relative mt-52">
-                    <div className="z-40' absolute flex flex-col justify-center items-center top-8 left-10 lg:top-14 lg:left-14">
-                        <img src={contract2} alt="" className='z-40 relative w-60 lg:w-96' />
+                    <div className="z-40' -mb-[38vw]  lg:absolute flex flex-col justify-center items-center top-8 'left-10 lg:top-14 lg:left-14">
+                        <img src={contract2} alt="" className='z-40 relative w-[60vw] lg:w-96' />
                         <img src={buybtn} alt="" className='z-40 relative w-40 lg:w-52 mt-3' />
                     </div>
                     <img src={heroboard} alt="" className='relative lg:w-[500px] z-30' />
