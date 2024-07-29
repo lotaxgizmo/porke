@@ -8,7 +8,7 @@ import dextoolscircle from '../assets/dextoolscircle.svg';
 
 function Joinus() {
     return (
-        <div className='bg-[#C3A083] z-50 relative lg:-mb-10'>
+        <div className='bg-[#C3A083] z-50 relative lg:-mb-10 .'>
             <div className='mt-10 about z-50 joinus relative flex flex-col justify-center items-center bg-black rounded-2xl m-4'>
                 <img src={joinus} alt="" className='z-50 hidden lg:flex p-10' />
                 <div className="z-50 lg:absolute w-full px-20 two flex flex-col lg:flex-row lg:mt-16 mt-40 mb-5">
