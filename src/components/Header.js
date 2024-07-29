@@ -1,9 +1,9 @@
 import React from 'react'
 import buybtnn from '../assets/buybtnn.png';
 import porketextt from '../assets/porketextt.png';
-import dexscreener from '../assets/dexscreener.svg';
-import telegram from '../assets/telegram.svg';
-import twitter from '../assets/twitter.svg';
+import dexscreener from '../assets/dexscreener.png';
+import telegram from '../assets/telegram.png';
+import twitter from '../assets/twitter.png';
 
 function Header() {
     return (
