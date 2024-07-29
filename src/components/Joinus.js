@@ -1,10 +1,10 @@
 import React from 'react'
 import joinus from '../assets/joinus.png';
 import joinustext from '../assets/joinustext.svg';
-import uniswaocircle from '../assets/uniswaocircle.svg';
-import twittercircle from '../assets/twittercircle.svg';
-import telegramcircle from '../assets/telegramcircle.svg';
-import dextoolscircle from '../assets/dextoolscircle.svg';
+import uniswaocircle from '../assets/uniswaocircle.png';
+import twittercircle from '../assets/twittercircle.png';
+import telegramcircle from '../assets/telegramcircle.png';
+import dextoolscircle from '../assets/dextoolscircle.png';
 
 function Joinus() {
     return (

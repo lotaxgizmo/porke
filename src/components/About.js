@@ -3,7 +3,8 @@ import aboutimg from '../assets/aboutimg.svg';
 import aboutdesktop from '../assets/aboutdesktop.svg';
 import aboutmobile from '../assets/aboutmobile.svg';
 import tokenomicsimg from '../assets/tokenomicsimg.svg';
-import porkenomics from '../assets/porkenomics.svg';
+import porkenomics from '../assets/porkenomics.png';
+import porkenomicsmob from '../assets/porkenomicsmob.png';
 
 function About() {
     return (
@@ -26,7 +27,8 @@ function About() {
                     <img src={tokenomicsimg} alt="" />
                 </div>
                 <div className="left">
-                    <img src={porkenomics} alt="" className=' ' />
+                    <img src={porkenomics} alt="" className='hidden lg:flex ' />
+                    <img src={porkenomicsmob} alt="" className='lg:hidden flex ' />
                 </div>
             </div>
 

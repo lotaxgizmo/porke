@@ -12,7 +12,7 @@ function Footer() {
             <img src={slider} alt="" className='z-10 max-w-none lg:w-full w-[700px] ' />
             <div className='z-10  flex flex-col lg:flex-row justify-between items-center w-full p-10 ' >
                 <div className="z-10 left">
-                    <img src={contract2} alt="" className='lg:w-auto w-80 max-w-none' />
+                    <img src={contract2} alt="" className='lg:w-[50vw] w-[90vw] max-w-none' />
                 </div>
                 <div className="z-10 right ">
 
