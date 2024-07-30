@@ -22,7 +22,8 @@ function Howto() {
     }, []);
 
     return (
-        <div className='z-[-10] about overflow-clip'>
+        <div className='z-[-10] about overflow-clip relative'>
+
             <div className=' z-[9]  howto p-4 flex flex-col lg:flex-row relative overflow-hidden'>
                 <div className="relative overflow-clip left lg:w-1/2 mt-20 lg:mt-0">
                     <img
